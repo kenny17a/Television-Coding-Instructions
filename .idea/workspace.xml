@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc570e60-fe96-4eb6-b720-a60a478ca3b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ArraySnacks/Reverse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DooGryWPOqkVBFiibWGnCiv93c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ArraySnacks" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.Tax" />
+      <recent name="com.Television" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.polling.MainUserRating">
+    <configuration name="CartyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ArraySnacks.CartyApp" />
+      <module name="snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraySnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ArraySnacks.Reverse" />
+      <module name="snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ArraySnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.polling.MainUserRating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.polling.MainUserRating" />
+      <module name="snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Television.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PollTest.testForTheTabularTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Polling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Polling" />
+      <option name="MAIN_CLASS_NAME" value="com.Polling.PollTest" />
+      <option name="METHOD_NAME" value="testForTheTabularTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PollTest.testTabularDisplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Polling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Polling" />
+      <option name="MAIN_CLASS_NAME" value="com.Polling.PollTest" />
+      <option name="METHOD_NAME" value="testTabularDisplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.polling.MainUserRating" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.CartyApp" />
+        <item itemvalue="JUnit.PollTest.testTabularDisplay" />
+        <item itemvalue="JUnit.PollTest.testForTheTabularTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc570e60-fe96-4eb6-b720-a60a478ca3b9" name="Changes" comment="" />
+      <created>1661374707861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661374707861</updated>
+      <workItem from="1661374710115" duration="23805000" />
+      <workItem from="1661546060914" duration="3407000" />
+      <workItem from="1661550159365" duration="926000" />
+      <workItem from="1661582016451" duration="2725000" />
+      <workItem from="1661593196880" duration="2730000" />
+      <workItem from="1661613928411" duration="5991000" />
+      <workItem from="1661631712801" duration="10946000" />
+      <workItem from="1661695227101" duration="1507000" />
+      <workItem from="1661774593397" duration="911000" />
+      <workItem from="1661847559539" duration="1555000" />
+      <workItem from="1661981308529" duration="1151000" />
+      <workItem from="1662024203786" duration="7000" />
+      <workItem from="1662455289543" duration="19925000" />
+      <workItem from="1662498222114" duration="951000" />
+      <workItem from="1662518994319" duration="3531000" />
+      <workItem from="1662590194556" duration="115000" />
+      <workItem from="1662625190773" duration="20397000" />
+      <workItem from="1662665208712" duration="4592000" />
+      <workItem from="1665927754370" duration="2870000" />
+      <workItem from="1665945760841" duration="625000" />
+      <workItem from="1665995562220" duration="613000" />
+      <workItem from="1666022355602" duration="658000" />
+      <workItem from="1666209198648" duration="65000" />
+      <workItem from="1666252520913" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
